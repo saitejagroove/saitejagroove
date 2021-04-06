@@ -4,8 +4,8 @@
 **saitejagroove/saitejagroove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I'm currently working on some ML models and learning about the related cloud platforms to deploy.
+🔭 I'm currently working on some ML models and learning about the related cloud platforms to understand the ML pipelines.
 
-🌱 I'm learning more on deep neural networks and convolution neural networks for the use case of autonomous systems. 
+🌱 I'm learning more on deep neural networks for NLP tasks. 
 
 😄 Pronouns: He/him
